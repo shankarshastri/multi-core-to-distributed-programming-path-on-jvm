@@ -8,5 +8,6 @@
 * [Distributed Programming In Java](https://www.coursera.org/learn/distributed-programming-in-java)
 * [MIT Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 * [Martin Kleppmann Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+* [Distributed System In One Lesson](https://www.oreilly.com/library/view/distributed-systems-in/9781491924914/)
 
 
